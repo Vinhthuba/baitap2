@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="SalesData_stylesheet.xsl" ?>
+<class1>
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <Name>David Blake</Name>
+        <Age>32</Age>
+        <Sales>21000</Sales>
+    </SalesPerson>
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <Name>Susan Jones</Name>
+        <Age>25</Age>
+        <Sales>50000</Sales>
+    </SalesPerson>
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <Name>Martin Howell</Name>
+        <Age>25</Age>
+        <Sales>2000</Sales>
+    </SalesPerson>
+    <SalesPerson>
+        <Product>Laptop</Product>
+        <Name>Tony Kemp</Name>
+        <Age>35</Age>
+        <Sales>50000</Sales>
+    </SalesPerson>
+</class1>
